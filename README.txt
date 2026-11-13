@@ -2,7 +2,6 @@
 =================================
 运行：双击「启动游戏.bat」(有 Node 则开本地服务并显示手机访问地址)，
       或直接双击 index.html 用浏览器打开(单文件，无需联网)。
-挂网页：只需把 index.html 一个文件上传到任意静态托管(GitHub Pages / Netlify / 自己的服务器)。
 手机：同一 Wi-Fi 访问 启动游戏.bat 显示的地址；或在 Safari/Chrome 里"添加到主屏幕"。
 存档：自动存在浏览器 localStorage，菜单可导出/导入。
 
@@ -12,3 +11,7 @@
 特效：pixelfx (MIT, github.com/patch-gg/pixelfx)；道具图标为程序化像素绘制。
 
 修改源码后重新构建： node build.mjs   (源码在 src/，pixelfx 在 vendor/pixelfx/)
+
+
+100% vibe-coding，到上面为止的readMe都是sonnet写的，再次感谢sonnet 5.5
+在线游玩地址：https://ellaalleella.github.io/Pixel-Factory-Unlimited/
